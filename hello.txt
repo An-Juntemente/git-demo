@@ -1,3 +1,4 @@
+Hello,Git! Juntemente!
 Hello,Git!
 Hello,Git!
 Hello,Git!
@@ -12,5 +13,4 @@ Hello,Git!
 Hello,Git!
 Hello,Git!
 Hello,Git!
-Hello,Git!
-Hello,Git!
+Hello,Git! Ensemble!
